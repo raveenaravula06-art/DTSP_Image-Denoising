@@ -1,5 +1,4 @@
 # DTSP Image Denoising
-# DTSP Image Denoising
 
 This project compares different image denoising techniques for grayscale images affected by noise.
 
